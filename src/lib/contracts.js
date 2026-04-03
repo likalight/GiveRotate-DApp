@@ -1,7 +1,7 @@
 // ── UPDATE THESE AFTER RUNNING: npx hardhat run scripts/deploy.js --network sepolia ──
 export const ADDRESSES = {
-  ROSCA_CHARITY: "PASTE_ROSCA_CHARITY_V2_ADDRESS_HERE",
-  MOCK_XSGD:     "PASTE_MOCK_XSGD_ADDRESS_HERE",
+  ROSCA_CHARITY: "0x34D8D00E8D968237B1176b84D9bfcFb46cD7D5ae",
+  MOCK_XSGD:     "0x00a73A0aE26Be0DB437bDefAc385c96728aa627e",
 }
 
 export const ROSCA_ABI = [
