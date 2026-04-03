@@ -1,4 +1,4 @@
-# GiveRotate v5 — Multi-Pool ROSCA Charity Donation DApp
+# GiveRotate — Multi-Pool ROSCA Charity Donation DApp
 
 A fully on-chain decentralised application (DApp) built on Ethereum Sepolia. Implements a multi-pool ROSCA (Rotating Savings and Credit Association) model for charitable donations, where donors contribute XSGD to cause-specific pools and payouts rotate between pools each cycle.
 
